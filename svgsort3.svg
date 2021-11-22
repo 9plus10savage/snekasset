@@ -1,0 +1,17 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+<g id="black">
+ <rect stroke="null" id="svg_7" height="601.99999" width="801.99998" y="-0.99218" x="-0.66144" fill="#000000"/>
+</g>
+
+ <g id="Color">
+  <title>Layer 1</title>
+ 
+  <rect id="svg_1" height="146" width="214" y="29.0078" x="57.33854" fill="#ffffff"/>
+  <rect id="svg_2" height="157" width="415" y="26.0078" x="360.33854" fill="#ffffff"/>
+  <path stroke="null" id="svg_3" d="m368.33851,340.00778l393.00002,0l0,221.00001l-393.00002,0l0,-221.00001z" opacity="undefined" fill="#ffffff"/>
+  <rect id="svg_4" height="106" width="410" y="204.0078" x="360.33854" fill="#ffffff"/>
+  <rect id="svg_5" height="138" width="230" y="187.0078" x="54.33854" fill="#ffffff"/>
+  <rect id="svg_6" height="218" width="236" y="340.0078" x="48.33854" fill="#ffffff"/>
+ </g>
+</svg>
